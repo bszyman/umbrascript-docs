@@ -1,0 +1,94 @@
+site_name: UmbraScript
+site_description: A talk-like scripting language for automating content and media in Umbraco CMS.
+site_url: https://www.umbrascript.org
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+    - navigation.tracking
+    - navigation.footer
+    - content.code.copy
+    - content.tabs.link
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Get started:
+      - get-started/index.md
+      - Install and enable: get-started/install.md
+      - Run your first command: get-started/first-command.md
+  - Language guide:
+      - language/index.md
+      - Mental model: language/mental-model.md
+      - Statements and keywords: language/statements.md
+      - Strings: language/strings.md
+      - References and selections: language/references-and-selections.md
+      - Destinations: language/destinations.md
+      - Results and errors: language/results-and-errors.md
+  - How-to guides:
+      - how-to/index.md
+      - Inspect a tree: how-to/inspect-a-tree.md
+      - Publish content in batches: how-to/batch-publish.md
+      - Update property values safely: how-to/update-properties.md
+      - Organize media: how-to/organize-media.md
+  - Command reference:
+      - reference/index.md
+      - Content:
+          - reference/content/index.md
+          - Show content: reference/content/show.md
+          - Create content: reference/content/create.md
+          - Publish content: reference/content/publish.md
+          - Unpublish content: reference/content/unpublish.md
+          - Rename content: reference/content/rename.md
+          - Move content: reference/content/move.md
+          - Copy content: reference/content/copy.md
+          - Trash content: reference/content/trash.md
+          - Restore content: reference/content/restore.md
+      - Properties:
+          - reference/properties/index.md
+          - Show a property: reference/properties/show-property.md
+          - Show all properties: reference/properties/show-properties.md
+          - Set a property: reference/properties/set.md
+          - Clear a property: reference/properties/clear.md
+      - Media:
+          - reference/media/index.md
+          - Show media: reference/media/show.md
+          - Create a media folder: reference/media/create-folder.md
+          - Rename media: reference/media/rename.md
+          - Move media: reference/media/move.md
+          - Copy media: reference/media/copy.md
+          - Trash media: reference/media/trash.md
+          - Restore media: reference/media/restore.md
+  - Administration:
+      - administration/index.md
+      - Permissions and safe use: administration/permissions-and-safety.md
+      - Compatibility and limitations: administration/compatibility.md
+      - Troubleshooting: administration/troubleshooting.md
+
+copyright: UmbraScript is free to use with Umbraco CMS 17 and later.
