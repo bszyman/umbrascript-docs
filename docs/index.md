@@ -37,5 +37,7 @@ UmbraScript uses familiar Umbraco concepts: content keys, content routes, Docume
 
 UmbraScript is free to use with Umbraco CMS 17 and later.
 
+[Support UmbraScript](https://buy.stripe.com/aFa9AVdqFbydbgz0Ve2Ry03){ .md-button target="_blank" rel="noopener" }
+
 !!! tip "New to UmbraScript?"
 Start with the [five-minute first-command tutorial](get-started/first-command.md). It uses a read-only command and explains the result before introducing commands that change your site.

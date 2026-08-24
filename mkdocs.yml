@@ -91,4 +91,7 @@ nav:
       - Compatibility and limitations: administration/compatibility.md
       - Troubleshooting: administration/troubleshooting.md
 
-copyright: UmbraScript is free to use with Umbraco CMS 17 and later.
+copyright: >
+  UmbraScript is free to use with Umbraco CMS 17 and later.
+  · <a href="https://buy.stripe.com/aFa9AVdqFbydbgz0Ve2Ry03"
+  target="_blank" rel="noopener">Support UmbraScript</a>
