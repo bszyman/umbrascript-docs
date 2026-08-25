@@ -1,6 +1,6 @@
 # UmbraScript
 
-UmbraScript is a talk-like scripting language for inspecting and automating content and media in Umbraco CMS.
+UmbraScript is an [xTalk-style](https://en.wikipedia.org/wiki/HyperTalk#Descendants_of_HyperTalk) scripting language for inspecting and automating content and media in Umbraco CMS.
 
 ```text title="UmbraScript"
 show content at "/destinations/pensacola-florida/"

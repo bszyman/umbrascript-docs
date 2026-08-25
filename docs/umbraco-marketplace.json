@@ -1,0 +1,34 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "AlternateCategory": "Editor Tools",
+  "AuthorDetails": {
+    "Name": "Ben Szymanski",
+    "Description": "US-based Umbraco Certified Master & MVP '26.",
+    "Url": "https://www.bszyman.com",
+    "ImageUrl": "https://github.com/bszyman.png",
+    "Contributors": [],
+    "SyncContributorsFromRepository": false
+  },
+  "Category": "Developer Tools",
+  "Description": "UmbraScript is an xTalk-style scripting language for inspecting and automating content and media in Umbraco CMS. UmbraScript is a interpreted and dynamic language that should feel natural to developers and content editors alike.",
+  "DocumentationUrl": "https://www.umbrascript.org",
+  "LicenseTypes": ["Free"],
+  "PackageType": "Package",
+  "PackagesByAuthor": [
+    "fastgooey",
+    "fastgooey.umbracoforms",
+    "ubrokenwindow",
+    "ucupertino"
+  ],
+  "RelatedPackages": [],
+  "Screenshots": [
+    {
+      "ImageUrl": "https://www.umbrascript.org/media/umbrascript-editor.png",
+      "Caption": "UmbraScript script editor interface."
+    }
+  ],
+  "Tags": ["scripting", "automation"],
+  "Title": "UmbraScript",
+  "VersionDependencyMode": "SemVer",
+  "VersionSpecificPackageIds": []
+}
