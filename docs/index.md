@@ -1,7 +1,5 @@
 # UmbraScript
 
-![umbrascript editor in umbraco backoffice](media/umbrascript-editor.png)
-
 UmbraScript is a talk-like scripting language for inspecting and automating content and media in Umbraco CMS.
 
 ```text title="UmbraScript"
@@ -34,6 +32,8 @@ Inspect the media tree, create folders, and rename, move, copy, trash, or restor
 [Browse media commands](reference/media/index.md)
 
 ## Designed for Umbraco
+
+![umbrascript editor in umbraco backoffice](media/umbrascript-editor.png)
 
 UmbraScript uses familiar Umbraco concepts: content keys, content routes, Document Type aliases, property aliases, the content tree, and the media tree. Keywords are case-insensitive, while names, paths, aliases, and values are written as quoted strings.
 
