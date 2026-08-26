@@ -1,5 +1,5 @@
 site_name: UmbraScript
-site_description: A talk-like scripting language for automating content and media in Umbraco CMS.
+site_description: An xTalk-like scripting language for automating content and media in Umbraco CMS.
 site_url: https://www.umbrascript.org
 
 theme:
