@@ -43,3 +43,10 @@ UmbraScript is free to use with Umbraco CMS 17 and later.
 
 !!! tip "New to UmbraScript?"
 Start with the [five-minute first-command tutorial](get-started/first-command.md). It uses a read-only command and explains the result before introducing commands that change your site.
+
+## Credits & Marketing Stuff
+
+<a href="https://www.tinyshelf.co/?ref=umbrascript.com" title="Featured on tinyshelf">
+  <img src="https://www.tinyshelf.co/badge/tinyshelf-badge-light-5ca4026a.svg"
+	   alt="Featured on tinyshelf" width="216" height="64"/>
+</a>
